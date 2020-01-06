@@ -89,7 +89,7 @@
             android:background="#99a9bf"/>
 
         <Button
-            android:id="@+id/botton5"
+            android:id="@+id/button5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
